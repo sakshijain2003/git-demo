@@ -1,4 +1,4 @@
 # git-demo
 This is my first git repository 
 <br>
-Author - Sakshi Jain (read)
+Author - Sakshi Jain 
